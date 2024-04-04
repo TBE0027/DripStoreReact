@@ -1,0 +1,57 @@
+.Header{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.barraPesquisaLupa{
+    display: flex;
+    align-items: center;
+}
+
+.Logo{
+    margin-top: 0.3vw;
+    width: 20vw;
+}
+
+.barraPesquisa{
+    margin-left: 0.1vw;
+    width: 45vw;
+    height: 4vw;
+    border-radius: 0.6vw;
+    border-style: hidden;
+    background-color:rgb(247, 247, 247)
+}
+
+.lupaPesquisa{
+    width: 2vw;
+    height: 2vw;
+    margin: -4vw;
+    opacity: 0.4;
+}
+
+.cadastroEntrar{
+    margin-left: 5vw;
+    display: flex;
+    gap: 2vw;
+}
+
+.BotaoEntrar{
+    width: 9vw;
+    height: 3vw;
+    background-color: rgb(210, 23, 95);
+    border-radius: 0.6vw;
+    border-style: hidden;
+    color: white
+}
+
+.Cadastro{
+    margin-top: 0.7vw;
+}
+
+.carrinho{
+    margin-right: 0.8vw;
+    margin-top: 0.8vw;
+    width: 1.4vw;
+}
