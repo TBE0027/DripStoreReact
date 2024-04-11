@@ -1,0 +1,16 @@
+.cardProduto{
+    background-color: rgb(220, 229, 255);
+    border-radius: 0.5vw;
+    width: 27vw;
+    height: 17vw;
+}
+
+.coleçõesDestaque{
+    margin-left: 6.3vw;
+}
+
+.cards{
+    display: flex;
+    gap: 2vw;
+    justify-content: center;
+}

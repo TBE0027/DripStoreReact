@@ -1,0 +1,31 @@
+.melhoresOfertas{
+    color: rgb(231, 169, 0);
+}
+
+.Flyer{
+    display: flex;
+    background-color:rgb(247, 247, 247);
+    margin-top: 2vw;
+    height: 37vw;
+}
+
+.texto{
+    margin-top: 6vw;
+    margin-left: 3vw;
+}
+
+.imagem{
+    width: 45vw;
+    margin-top: 6vw;
+    margin-left: 0vw;
+    rotate: 340deg;
+}
+
+.botao{
+    width: 9vw;
+    height: 2vw;
+    background-color: rgb(210, 23, 95);
+    border-radius: 0.3vw;
+    border-style: hidden;
+    color: white
+}
